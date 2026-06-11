@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+pgdata/
+.env
+*.db
+node_modules/
